@@ -35,23 +35,22 @@ You can feel free to modify the vars TIMEOUT and  MESSAGES.
 
 Sample ouput
 =======
-Test ignored object:{"current":false,"expected":false,"name":false,"strict":false} people-test.js
-Test ignored object:{"current":false,"expected":false,"name":false,"strict":true} people-test.js
-Test ignored object:{"current":false,"expected":false,"name":"","strict":false} people-test.js
-Test ignored object:{"current":false,"expected":false,"name":"","strict":true} people-test.js
-✓ Boolean test - Good test people-test.js
-✓ Second boolean test - Good test people-test.js
-✗ Third boolean test - Bad test people-test.js
-✓ Four boolean test - Good test people-test.js
-✗ String test - Bad test people-test.js
-✗ Second String test - Bad test people-test.js
-✓ Number agains boolean - Good test people-test.js
-✓ Number 2 agains boolean - Good test people-test.js
-✗ Decimal agains boolean - Bad test people-test.js
-✗ Decimal 2 agains boolean - Bad test people-test.js
-✗ Object test - Bad test people-test.js
-✗ Object strict test - Bad test people-test.js
-✗ Testing class css - Bad test people-test.js
-✓ Testing class css strict - Good test people-test.js
-
-Statistics: {"pass":6,"fail":8,"warn":4}
+- Test ignored object:{"current":false,"expected":false,"name":false,"strict":false} people-test.js
+- Test ignored object:{"current":false,"expected":false,"name":false,"strict":true} people-test.js
+- Test ignored object:{"current":false,"expected":false,"name":"","strict":false} people-test.js
+- Test ignored object:{"current":false,"expected":false,"name":"","strict":true} people-test.js
+- ✓ Boolean test - Good test people-test.js
+- ✓ Second boolean test - Good test people-test.js
+- ✗ Third boolean test - Bad test people-test.js
+- ✓ Four boolean test - Good test people-test.js
+- ✗ String test - Bad test people-test.js
+- ✗ Second String test - Bad test people-test.js
+- ✓ Number agains boolean - Good test people-test.js
+- ✓ Number 2 agains boolean - Good test people-test.js
+- ✗ Decimal agains boolean - Bad test people-test.js
+- ✗ Decimal 2 agains boolean - Bad test people-test.js
+- ✗ Object test - Bad test people-test.js
+- ✗ Object strict test - Bad test people-test.js
+- ✗ Testing class css - Bad test people-test.js
+- ✓ Testing class css strict - Good test people-test.js
+- Statistic: {"pass":6,"fail":8,"warn":4}"
