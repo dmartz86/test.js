@@ -53,4 +53,4 @@ Sample ouput
 - ✗ Object strict test - Bad test people-test.js
 - ✗ Testing class css - Bad test people-test.js
 - ✓ Testing class css strict - Good test people-test.js
-- Statistic: {"pass":6,"fail":8,"warn":4}"
+- Statistics: {"pass":6,"fail":8,"warn":4}"
