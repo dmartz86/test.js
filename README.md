@@ -1,6 +1,10 @@
 MoNoApps | test.js
 =======
 
+NPM: tpill
+===
+This code now is available via npm install tpill. For assertions on backend code.
+
 Web testing with assert questions
 ====
 This is a little tool to test things on html view.
